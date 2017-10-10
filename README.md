@@ -6,4 +6,3 @@
 		- https://en.wikipedia.org/wiki/Mill_Valley,_California
 
 
-[history-tedbarnett created by GitHub Classroom]
