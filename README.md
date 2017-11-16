@@ -19,6 +19,6 @@ In the 1920s, the railroad station featured a ticket office and a newsstand. On 
 
 ## TimeWalk Images
 
-![TimeWalk Unity Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-vasco/blob/master/SketchUp%20screenshot.png)
-![3D Printer Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-vasco/blob/master/SketchUp%20screenshot.png)
+![TimeWalk Unity Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-train-depot/blob/master/Depot%20-%20TimeWalk%20Unity%20model.JPG)
+![3D Printer Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-train-depot/blob/master/Depot%203D%20Printer%20Model.png)
 
