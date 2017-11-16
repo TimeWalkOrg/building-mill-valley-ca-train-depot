@@ -17,5 +17,8 @@ In the 1920s, the railroad station featured a ticket office and a newsstand. On 
 - https://en.wikipedia.org/wiki/Mill_Valley,_California
 - http://www.waymarking.com/waymarks/WMQME6_Mill_Valley_Railroad_Depot_Mill_Valley_CA
 
+## TimeWalk Images
 
+![TimeWalk Unity Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-vasco/blob/master/SketchUp%20screenshot.png)
+![3D Printer Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-vasco/blob/master/SketchUp%20screenshot.png)
 
