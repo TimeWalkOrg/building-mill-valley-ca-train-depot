@@ -7,7 +7,7 @@ In the 1920s, 87 Throckmorton Avenue was the home of Mill Valley’s Northwester
 
 In the 1920s, the railroad station featured a ticket office and a newsstand. On the second floor were living quarters for the station manager. Outside, a train shed protected passengers from the elements as they waited for trains. Over the years, the design of the building would change and when commuter train service ceased in 1940, the station would become a bus depot for Pacific Greyhound buses. In 2017, the building is the home of the Depot Bookstore & Cafe.
 
-- Built: c.1890
+- Built: c.1895
 - Replaced: c.1929 (Mill Valley Depot Bus Station built on same location)
 - Architect: unknown
 - Library link: http://www.millvalleylibrary.net/historyroom/collections/items/show/142
@@ -25,6 +25,7 @@ In the 1920s, the railroad station featured a ticket office and a newsstand. On 
 ### Online references:
 - https://en.wikipedia.org/wiki/Mill_Valley,_California
 - http://www.waymarking.com/waymarks/WMQME6_Mill_Valley_Railroad_Depot_Mill_Valley_CA
+- http://www.oac.cdlib.org/ark:/13030/kt6s20271q/?layout=metadata&brand=oac4
 
 ## TimeWalk Images
 
