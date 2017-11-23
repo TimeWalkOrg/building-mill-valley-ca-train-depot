@@ -22,7 +22,12 @@ In the 1920s, the railroad station featured a ticket office and a newsstand. On 
 - We have left the exterior color white, though the HO-scale model in the Mill Valley Library History room suggests that it was yellow in color.  We have no source for that assumption.
 - No photos of the interior of the Depot prior to 1929 have been found.  The ticket area and upstairs quarters are based on similar train stations of the period.
 
-### Online references:
+### Reference Images
+![Google Maps dimensions](https://github.com/TimeWalkOrg/building-mill-valley-ca-train-depot/blob/master/Depot%202017%20dimensions.png)
+
+![1920 photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-train-depot/blob/master/Mill-Valley-Depot-1920-from-NE.jpg)
+
+### Online references
 - https://en.wikipedia.org/wiki/Mill_Valley,_California
 - http://www.waymarking.com/waymarks/WMQME6_Mill_Valley_Railroad_Depot_Mill_Valley_CA
 - http://www.oac.cdlib.org/ark:/13030/kt6s20271q/?layout=metadata&brand=oac4
@@ -30,5 +35,6 @@ In the 1920s, the railroad station featured a ticket office and a newsstand. On 
 ## TimeWalk Images
 
 ![TimeWalk Unity Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-train-depot/blob/master/Depot%20-%20TimeWalk%20Unity%20model.JPG)
+
 ![3D Printer Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-train-depot/blob/master/Depot%203D%20Printer%20Model.png)
 
