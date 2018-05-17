@@ -13,7 +13,7 @@ In the 1920s, the railroad station featured a ticket office and a newsstand. On 
 - Library link: http://www.millvalleylibrary.net/historyroom/collections/items/show/142
 
 ### Model Design (1920 Version)
-- Built by Theodore Barnett and Constantin George-Tony (![Upwork link](https://www.upwork.com/freelancers/~01b75f9a77ff2adbfa))
+- Built by Theodore Barnett and Constantin George-Tony ([Upwork link](https://www.upwork.com/freelancers/~01b75f9a77ff2adbfa))
 - Modeled in Autodesk 3ds Max
 - Completed in December 2014
 
